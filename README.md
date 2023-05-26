@@ -1,4 +1,4 @@
-# Terraform---S3
+# Terraform-S3
 
 - Create fast a bucket s3 using terraform.
 
